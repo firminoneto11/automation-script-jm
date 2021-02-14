@@ -63,3 +63,9 @@ pyinstaller --onefile --uac-admin "jmorph_Automation.py"
 - Updates the old jMorph shortcut in the desktop for the new one;
 
 With this, everytime jMorph gets updated, you can just download it, run the script and it will automatically update the desktop shortcut without having to do it manually.
+
+<hr/>
+<div align='center'><h3>👾 Author 👾</h3></div>
+<br/>
+<p>Made with ♥ by <a href="https://github.com/firminoneto11">Firmino Neto</a>.
+</p>
