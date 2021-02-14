@@ -27,7 +27,7 @@
 - [x] A source code editor. I use <a href='https://www.jetbrains.com/pycharm/'>PyCharm</a>, but feel free to use any other;
 
 <h5>Libraries</h5>
-<p>Use these two following commands to install the libraries after you have installed Python</p>
+<p>Use these two following commands to install the libraries after you have installed Python -</p>
 
 ```python
 # Installing 'pyinstaller'
