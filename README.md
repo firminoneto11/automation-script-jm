@@ -18,4 +18,20 @@
 <p>World of Warcraft is a game with a long history now, and part of that history includes updates, and a lot of them! Everytime the game got updated i had to re-download the jMorph tool (once the owner had updated it as well), had to move it to my World of Warcraft's folder, had to unzip it and create a shortcut to the desktop area. All of these steps could be automated and thats how i came up with the idea.</p>
 <hr/>
 <div align='center'><h3>🤔 Will the script work for me as well? 🤔</h3></div>
-<p>Since i made the script based on my directory folder, the script it's not going to work if you don't make a couple changes in it. I show you what parts you have to change if you want to use it too.</p>
+<p>Since i made the script based on my directory folder, the script it's not going to work if you don't make a couple changes in it. I'll show you what parts you have to change if you want to use it too.</p>
+<h4>What you need to install<h4>
+<p>Before changing the code, make sure you have the following elements installed on your computer: </p>
+<br/>
+  <h5>Applications -</h5>
+- [x] Python 3 or superior;
+- [x] A source code editor. I use <a href='https://www.jetbrains.com/pycharm/'>PyCharm</a>, but feel free to use any other;
+  <br/>
+  <h5>Libraries</h5>
+  <p>Use these two following commands to install the libraries after you have installed Python-</p>
+  ```python
+  # Installing 'pyinstaller'
+  pip install pyinstaller
+  
+  # Installing 'zipfile'
+  pip install zipfile
+  ```
