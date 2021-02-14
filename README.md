@@ -19,9 +19,9 @@
 <hr/>
 <div align='center'><h3>🤔 Will the script work for me as well? 🤔</h3></div>
 <p>Since i made the script based on my directory folder, the script it's not going to work if you don't make a couple changes in it. I'll show you what parts you have to change if you want to use it too.</p>
-<h4>What you need to install<h4>
+<h4>What you need to install -<h4>
 <p>Before changing the code, make sure you have the following elements installed on your computer: </p>
-<h5>* Applications -</h5>
+<h5>* Applications</h5>
 
 - [x] Python 3 or superior;
 - [x] A source code editor. I use <a href='https://www.jetbrains.com/pycharm/'>PyCharm</a>, but feel free to use any other;
