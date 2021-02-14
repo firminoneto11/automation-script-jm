@@ -36,3 +36,9 @@ pip install pyinstaller
 # Installing 'zipfile'
 pip install zipfile38
 ```
+<p>Now that you are all set, these are the variables that you need to change in the code: </p>
+<img src="https://github.com/firminoneto11/automation-script-jm/blob/main/assets/one.JPG" alt="first image of variables">
+<br/>
+<img src="https://github.com/firminoneto11/automation-script-jm/blob/main/assets/two.JPG" alt="second image of variables">
+<p>Since all these variables are absolute paths, you just have to replace my path for yours and they MUST have the zip files at the end.</p>
+<hr/>
